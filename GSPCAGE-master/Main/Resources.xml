@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--List of resources for graphic, texture and audio assets  ----------------------------->
+<!---------------------------------------------------------------------------------------->
+<!--We will separate different audio types between comments ---------------------------->
+<!-----------------------------------------AUDIO ASSETS -------------------------------->
+<!---------------------------------------------------------------------------------------->
+<resources>
+	 <resource UID="1" type ="texture" filename ="Textures\TeamATitle.png" scenescope = "0" width="800" height="600"></resource>
+	 <resource UID="2" type="audio" filename ="Audio\bull_1.mp3" scenescope="0" audiotype="default"></resource>
+	 <resource UID="3" type="audio" filename ="Audio\DrumLoop.mp3" scenescope="0" audiotype="default"></resource>
+	 <resource UID="4" type="audio" filename ="Audio\machineGunFire.mp3" scenescope="1" audiotype="default"></resource>
+	 <resource UID="5" type="audio" filename ="Audio\MenuOpeningMusic.mp3" scenescope="1" audiotype="default"></resource>
+	 <resource UID="6" type="audio" filename ="Audio\Military.mp3" scenescope="1" audiotype="default"></resource>
+	 <resource UID="7" type="audio" filename ="Audio\MilitaryGameOverClip.mp3" scenescope="1" audiotype="default"></resource>
+	 <resource UID="8" type="audio" filename ="Audio\SmallExplosion.mp3" scenescope="1" audiotype="default"></resource>
+	 <resource UID="9" type="audio" filename ="Audio\Woop Woop.mp3" scenescope="1" audiotype="default"></resource>
+	 <resource UID="10" type="audio" filename ="Audio\TankMovingLoop.mp3" scenescope="2" audiotype="default"></resource>
+	 <resource UID="11" type="audio" filename ="Audio\tankFire.mp3" scenescope="2" audiotype="default"></resource>
+	 <resource UID="12" type="audio" filename ="Audio\Tank_idleLoop.mp3" scenescope="3" audiotype="default"></resource>
+	 
+
+
+	 
+	<!---------------------------------------------------------------------------------------->
+	<!-----------------------------------------Graphics/Meshes -------------------------------->
+	<!---------------------------------------------------------------------------------------->
+	
+	
+	
+	<!---------------------------------------------------------------------------------------->
+	<!-----------------------------------------TEXTURE/IMAGES -------------------------------->
+	<!---------------------------------------------------------------------------------------->
+
+	<resource UID = "20" type = "texture" filename = "Textures\TeamATitle.png" scenescope = "0" width="800" height="600"></resource>
+	<resource UID = "11" type = "texture" filename = "myGraphic.png" scenescope = "1" width="800" height="600"></resource>
+
+</resources>
